@@ -4,3 +4,4 @@ register for 1st dose
 1st dose certificate
 register for second dose
 get certificate for 2nd dose of vaccination
+information of vaccination in nearby rural area
